@@ -2,7 +2,26 @@ import React from "react";
 import PersonsList from "../Components/PersonsList/PersonsList";
 import "./App.css";
 
-class App extends React.Component {
+export interface IPersons {
+  name: IpersonsNames;
+  email: string;
+  picture: IpersonsNames;
+  cell: number;
+  login: IpersonsNames;
+}
+interface IpersonsNames {
+  first: string;
+  last: string;
+  large: string;
+  uuid: number;
+}
+
+interface IAppProps {}
+
+interface IAppState {
+  persons: Array<IPersons>;
+}
+class App extends React.Component<IAppProps, IAppState> {
   state = {
     persons: []
   };

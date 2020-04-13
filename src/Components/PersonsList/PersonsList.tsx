@@ -1,19 +1,20 @@
 import React from "react";
 import Person from "../Person/Person";
 import "./PersonsList.css";
+import { IPersons } from "../../Containers/App";
 
-const PersonsList = ({ persons }) => {
+const PersonsList = ({ persons }: { persons: Array<IPersons> }) => {
   return (
     <div className="personslist-container">
       {persons.map(user => {
         return (
           <Person
             key={user.login.uuid}
-            firstname={user.name.first}
-            lastname={user.name.last}
+            first={user.name.first}
+            last={user.name.last}
             email={user.email}
-            image={user.picture.large}
-            phone={user.cell}
+            picture={user.picture.large}
+            cell={user.cell}
           />
         );
       })}
