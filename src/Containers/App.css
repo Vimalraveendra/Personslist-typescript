@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "PROGRESS PERSONAL USE Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("PROGRESS PERSONAL USE Regular"),
+    url("ProgressPersonalUse-EaJdz.woff") format("woff");
+}
+
+h1 {
+  font-family: "PROGRESS PERSONAL USE Regular";
+  font-weight: 200;
+  color: #aa3981;
+  font-size: 2.5em;
+}
+
+p {
+  font-family: "Kaushan Script", cursive;
+  color: #aa3981;
+}
+
+h2 {
+  color: #aa5739;
+}
