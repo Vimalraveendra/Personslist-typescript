@@ -25,7 +25,7 @@ class App extends React.Component<IAppProps, IAppState> {
   state = {
     persons: []
   };
-  componentDidMount() {
+  componentDidMount(): void {
     fetch("https://randomuser.me/api/?&nat=gb&results=20")
       .then(response => response.json())
       .then(users =>
@@ -34,7 +34,7 @@ class App extends React.Component<IAppProps, IAppState> {
         })
       );
   }
-  render() {
+  render(): JSX.Element {
     return (
       <div>
         <h1 className="tc">PersonsList</h1>
