@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Personslist-typescript/static/css/main.fc54eff2.chunk.css",
-    "main.js": "/Personslist-typescript/static/js/main.250a5fee.chunk.js",
-    "main.js.map": "/Personslist-typescript/static/js/main.250a5fee.chunk.js.map",
+    "main.js": "/Personslist-typescript/static/js/main.1d350e2f.chunk.js",
+    "main.js.map": "/Personslist-typescript/static/js/main.1d350e2f.chunk.js.map",
     "runtime-main.js": "/Personslist-typescript/static/js/runtime-main.6b50f65b.js",
     "runtime-main.js.map": "/Personslist-typescript/static/js/runtime-main.6b50f65b.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/Personslist-typescript/static/css/2.3b6f1bda.chunk.css",
     "static/js/2.f8ead601.chunk.js": "/Personslist-typescript/static/js/2.f8ead601.chunk.js",
     "static/js/2.f8ead601.chunk.js.map": "/Personslist-typescript/static/js/2.f8ead601.chunk.js.map",
     "index.html": "/Personslist-typescript/index.html",
-    "precache-manifest.920820792c2611c329c417573028b86d.js": "/Personslist-typescript/precache-manifest.920820792c2611c329c417573028b86d.js",
+    "precache-manifest.34df83c446fe410d17fc05861f505907.js": "/Personslist-typescript/precache-manifest.34df83c446fe410d17fc05861f505907.js",
     "service-worker.js": "/Personslist-typescript/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/Personslist-typescript/static/css/2.3b6f1bda.chunk.css.map",
     "static/css/main.fc54eff2.chunk.css.map": "/Personslist-typescript/static/css/main.fc54eff2.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.f8ead601.chunk.js",
     "static/css/main.fc54eff2.chunk.css",
-    "static/js/main.250a5fee.chunk.js"
+    "static/js/main.1d350e2f.chunk.js"
   ]
 }

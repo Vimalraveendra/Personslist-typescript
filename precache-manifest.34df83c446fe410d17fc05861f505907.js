@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6008843788728f4bba3048232b7a1852",
+    "revision": "6bb44ce808cb5e4a3820b6f98dd26b44",
     "url": "/Personslist-typescript/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Personslist-typescript/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "603c3a8aed790aef8cf6",
+    "revision": "2e786d4d3548036b97fe",
     "url": "/Personslist-typescript/static/css/main.fc54eff2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Personslist-typescript/static/js/2.f8ead601.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "603c3a8aed790aef8cf6",
-    "url": "/Personslist-typescript/static/js/main.250a5fee.chunk.js"
+    "revision": "2e786d4d3548036b97fe",
+    "url": "/Personslist-typescript/static/js/main.1d350e2f.chunk.js"
   },
   {
     "revision": "3cc4b93b93000c64d7be",
