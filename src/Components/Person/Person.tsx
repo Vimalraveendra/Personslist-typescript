@@ -11,11 +11,17 @@ const Person: React.FC<PersonStatelessProps> = ({
   picture,
   first,
   last,
-  cell
+  cell,
 }) => {
   return (
     <div className="tc bg-light-blue br3 pa3 ma2 grow bw2 shadow-5">
-      <img className="br3" alt="person" src={picture} />
+      <img
+        className="br3 "
+        alt="person"
+        srcSet={picture + " 1x, "}
+        src={picture}
+      />
+
       <div>
         <h2>
           Name:{first}
