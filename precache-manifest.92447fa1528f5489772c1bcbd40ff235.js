@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bb44ce808cb5e4a3820b6f98dd26b44",
+    "revision": "09a9b348a52caab206b85f0f876c890a",
     "url": "/Personslist-typescript/index.html"
   },
   {
