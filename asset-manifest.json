@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Personslist-typescript/static/css/main.fc54eff2.chunk.css",
-    "main.js": "/Personslist-typescript/static/js/main.1d350e2f.chunk.js",
-    "main.js.map": "/Personslist-typescript/static/js/main.1d350e2f.chunk.js.map",
-    "runtime-main.js": "/Personslist-typescript/static/js/runtime-main.6b50f65b.js",
-    "runtime-main.js.map": "/Personslist-typescript/static/js/runtime-main.6b50f65b.js.map",
-    "static/css/2.3b6f1bda.chunk.css": "/Personslist-typescript/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.f8ead601.chunk.js": "/Personslist-typescript/static/js/2.f8ead601.chunk.js",
-    "static/js/2.f8ead601.chunk.js.map": "/Personslist-typescript/static/js/2.f8ead601.chunk.js.map",
+    "main.js": "/Personslist-typescript/static/js/main.39127912.chunk.js",
+    "main.js.map": "/Personslist-typescript/static/js/main.39127912.chunk.js.map",
+    "runtime-main.js": "/Personslist-typescript/static/js/runtime-main.4d476555.js",
+    "runtime-main.js.map": "/Personslist-typescript/static/js/runtime-main.4d476555.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Personslist-typescript/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9adbbc50.chunk.js": "/Personslist-typescript/static/js/2.9adbbc50.chunk.js",
+    "static/js/2.9adbbc50.chunk.js.map": "/Personslist-typescript/static/js/2.9adbbc50.chunk.js.map",
     "index.html": "/Personslist-typescript/index.html",
-    "precache-manifest.92447fa1528f5489772c1bcbd40ff235.js": "/Personslist-typescript/precache-manifest.92447fa1528f5489772c1bcbd40ff235.js",
+    "precache-manifest.334a582f844265cc6f48e0e24a336ea0.js": "/Personslist-typescript/precache-manifest.334a582f844265cc6f48e0e24a336ea0.js",
     "service-worker.js": "/Personslist-typescript/service-worker.js",
-    "static/css/2.3b6f1bda.chunk.css.map": "/Personslist-typescript/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/2.3c03f26f.chunk.css.map": "/Personslist-typescript/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.fc54eff2.chunk.css.map": "/Personslist-typescript/static/css/main.fc54eff2.chunk.css.map",
-    "static/js/2.f8ead601.chunk.js.LICENSE.txt": "/Personslist-typescript/static/js/2.f8ead601.chunk.js.LICENSE.txt",
+    "static/js/2.9adbbc50.chunk.js.LICENSE.txt": "/Personslist-typescript/static/js/2.9adbbc50.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Personslist-typescript/static/media/ProgressPersonalUse-EaJdz.200191f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b50f65b.js",
-    "static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.f8ead601.chunk.js",
+    "static/js/runtime-main.4d476555.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9adbbc50.chunk.js",
     "static/css/main.fc54eff2.chunk.css",
-    "static/js/main.1d350e2f.chunk.js"
+    "static/js/main.39127912.chunk.js"
   ]
 }
